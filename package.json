@@ -32,5 +32,13 @@
     "@types/node": "^18.11.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimiourgia/Awesome-Credit-Card.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dimiourgia/Awesome-Credit-Card/issues"
+  },
+  "homepage": "https://github.com/dimiourgia/Awesome-Credit-Card#readme"
 }
